@@ -295,8 +295,6 @@ Edit the text to match who can attend the workshop. For instance:
 <p>
     <strong>Registration:</strong>
     You must register your attendance to this workshop on <a href="https://nyu.libcal.com/calendar/classes/nyu-carpentries-fall-2025">LibCal</a>.
-<strong>Minute cards:</strong>
-    Slides for <a href="https://docs.google.com/presentation/d/1W2OQweZGR6WYbrw8BW-snDb9_b_-qSS4wMDIhN5oaQ0/edit?usp=sharing">minute cards</a>.
 </p>
 <hr/>
 
